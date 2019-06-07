@@ -1,8 +1,16 @@
 {
-  "messages": [
+  "topics": [
     { "id": 1, "user": "Jignesh", "message": "Lorem ipsum dolor sit amet" },
     { "id": 2, "user": "Chirag", "message": "tiam nec pulvinar justo" },
     { "id": 3, "user": "Shubhan", "message": "Maecenas metus libero" },
-    { "id": 1, "user": "Jignesh", "message": "Cras non vestibulum dui" }
-  ]
+    { "id": 1, "user": "Jignesh", "message": "Cras non vestibulum dui" },
+    { "id": 4, "user": "Nilesh", "message": "Cras feugiat magna magna" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
