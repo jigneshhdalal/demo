@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "topics": [
     { "id": 1, "user": "Jignesh", "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum aliquet ac dolor nec commodo." },
     { "id": 2, "user": "Chirag", "message": "tiam nec pulvinar justo. Nam viverra tempor ante quis iaculis. Cras faucibus rhoncus nisl sit amet pretium." },
     { "id": 3, "user": "Shubhan", "message": "Maecenas metus libero, pulvinar blandit eros non, sagittis luctus ipsum. Praesent at ex in velit commodo vehicula in nec arcu." },
