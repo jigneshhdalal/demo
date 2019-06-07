@@ -44,6 +44,6 @@
     { "id": 2, "user": "Chirag", "message": "tiam nec pulvinar justo" },
     { "id": 3, "user": "Shubhan", "message": "Maecenas metus libero" },
     { "id": 1, "user": "Jignesh", "message": "Cras non vestibulum dui" },
-    { "id": 4, "user": "Nilesh", "message": "Cras feugiat magna magna" },
+    { "id": 4, "user": "Nilesh", "message": "Cras feugiat magna magna" }
   ]
 }
