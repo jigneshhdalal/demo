@@ -1,8 +1,10 @@
 {
   "posts": [
-    { "id": 1, "title": "JD Post 1" },
-    { "id": 2, "title": "JD Post 2" },
-    { "id": 3, "title": "JD Post 3" }
+    { "id": 1, "user": "Jignesh", "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum aliquet ac dolor nec commodo." },
+    { "id": 2, "user": "Chirag", "message": "tiam nec pulvinar justo. Nam viverra tempor ante quis iaculis. Cras faucibus rhoncus nisl sit amet pretium." },
+    { "id": 3, "user": "Shubhan", "message": "Maecenas metus libero, pulvinar blandit eros non, sagittis luctus ipsum. Praesent at ex in velit commodo vehicula in nec arcu." }
+    { "id": 1, "user": "Jignesh", "message": "Cras non vestibulum dui. Quisque urna nisi, fermentum egestas cursus eget, porttitor non nulla." },
+    { "id": 4, "user": "Nilesh", "message": " Cras feugiat magna magna, et dictum orci convallis efficitur. Cras pharetra diam vitae erat vehicula placerat. Etiam vitae aliquet lectus, vitae commodo tortor." }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
